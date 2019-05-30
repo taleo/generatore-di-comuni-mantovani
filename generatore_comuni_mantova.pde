@@ -1,5 +1,5 @@
 void setup() { 
-  size(1000, 200);
+  size(800, 70);
 
 
   
