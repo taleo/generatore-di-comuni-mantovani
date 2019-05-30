@@ -19,6 +19,6 @@ int o = int(random(72));
   
 textSize(20);
 fill(0);
-text(first[n]+second[m]+third[o], 25, 50);
+text(first[n]+second[m]+third[o], 10, 25);
 
 }
