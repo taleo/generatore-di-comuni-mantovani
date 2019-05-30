@@ -1,5 +1,5 @@
 void setup() { 
-  size(800, 70);
+  size(800, 50);
 
 
   
@@ -17,7 +17,7 @@ int m = int(random(108));
 int o = int(random(72));
 
   
-textSize(50);
+textSize(20);
 fill(0);
 text(first[n]+second[m]+third[o], 10, 50);
 
